@@ -1,0 +1,11 @@
+@import'~bootstrap/dist/css/bootstrap.min.css';
+@import'./loader.css';
+
+#progress-modal{
+    background-color: #333333cc;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
